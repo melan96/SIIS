@@ -12,13 +12,13 @@
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
-    "config": "^3.1.0",
+    "config": "^3.3.9",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
-    "mongoose": "^5.5.5",
+    "mongoose": "^5.7.0",
     "mongoose-dateonly": "^1.0.6",
     "nodemailer": "^6.2.1"
   },
